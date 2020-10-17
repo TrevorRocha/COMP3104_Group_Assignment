@@ -5,3 +5,4 @@ problem by adhering to the core responsibilities of DevOps.
 
 RESOURCE: 2020-2021_comp3104.pdf
 
+We are Using programs lit git, travis, and jenkins in this course.

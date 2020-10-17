@@ -2,4 +2,7 @@ The Software Development Life Cycle (SDLC):
 The SDLC focuses on Requirement analysis, planning, software desing, software development, testing, and deployment
 it is used to create software with a high quality in a short time that is well tested and ready for use.
 
-The Stages of SDLC are: Identify current problems -> Plan -> Design -> Build -> Test -> Deploy
+The Stages of SDLC are: Identify current problems -> Plan -> Design -> Build -> Test -> Deploy -> Maintain
+
+some examples of SDLC's are: Waterfall model and Agile Model 
+

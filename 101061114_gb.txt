@@ -1,1 +1,11 @@
-Test
+George Brown College:
+
+  The college offers 35 diploma programs, 
+31 advanced diploma programs as well as eight degree programs,
+one in conjunction with Ryerson University
+
+  As of September 2020 there are ~26000 full-time students, 
+inculding ~3500 international and ~3800 part-time students 
+   
+GBC was chartered in 1996 by the government of Ontario and opened the next year.
+   

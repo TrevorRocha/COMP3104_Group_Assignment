@@ -1,1 +1,2 @@
-Creating devops file
+This file will contain information about George Brown
+college

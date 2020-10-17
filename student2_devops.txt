@@ -1,0 +1,17 @@
+When you have earned credit for this course, you will have demonstrated the ability to:
+-Demonstrate knowledge of effective DevOps techniques and be able to
+ provide solutions using industry standard tools and techniques such as continuous
+ integration/delivery/deployment strategies, software development lifecycle, application
+ containerization for deployment, etc.
+-Perform hand-on lab work by applying DevOps techniques.
+-Ensure effective cross collaboration amongst IT staff by following role and
+ responsibilities of an engineer.
+-Analyze and utilize Version Control System workflows for low-risk software
+ releases.
+-Take well informed architectural decisions for software products, specifically in
+ the context of monolith vs microservice architectures.
+-Monitor code quality and deploy applications to hosting services.
+-Utilize service platforms such as Infrastructure as Code and the associated
+ benefits of cloud computing products
+-Identify the market space as a DevOps engineer
+
